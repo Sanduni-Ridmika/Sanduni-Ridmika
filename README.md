@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sanduni Ridmika
+### <h1 align = "center"> Hi there 👋 I'm Sanduni Ridmika </h1>
 
 <!--
 **Sanduni-Ridmika/Sanduni-Ridmika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
