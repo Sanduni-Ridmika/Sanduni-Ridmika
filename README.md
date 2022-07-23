@@ -1,5 +1,5 @@
 ### <h1 align = "center"> Hello, I'm Sanduni Ridmika <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<br><br> <hr>
+<br> <hr>
 <h3> About Me </h3>
 
 - 🔭 I’m a **Software Engineering undergraduate student at Plymouth University, UK**
@@ -10,7 +10,7 @@
 <h3> Contact Me </h3>
 <a href="https://www.linkedin.com/in/sanduni-ridmika-a6a2b9196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanduniridmika" height="25" width="35" /></a>
 <a href="https://stackoverflow.com/users/13182070/sanduni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sanduniridmika" height="25" width="35" /></a>
-
+<a href="https://dev.to/28sanduni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sanduniridmika" height="30" width="40" /></a>
 <!--
 **Sanduni-Ridmika/Sanduni-Ridmika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
