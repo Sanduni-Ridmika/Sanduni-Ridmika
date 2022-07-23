@@ -1,5 +1,4 @@
 ### <h1 align = "center"> Hello, I'm Sanduni Ridmika <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<hr>
 <h3> About Me </h3>
 
 - 🔭 I’m a **Software Engineering undergraduate student at Plymouth University, UK**
