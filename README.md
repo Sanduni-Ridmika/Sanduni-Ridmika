@@ -26,13 +26,13 @@
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Wordpress](https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress)
 
-<img src="https://komarev.com/ghpvc/?username=Sanduni-Ridmika&label=Profile%20views&color=0e75b6&style=flat" alt="sanduni" />
-
 <img
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=Sanduni-Ridmika&show_icons=true&count_private=true&theme=light&hide=issues&include_all_commits=true"
     />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanduni-Ridmika&layout=compact&theme=light)
+
+<img src="https://komarev.com/ghpvc/?username=Sanduni-Ridmika&label=Profile%20views&color=0e75b6&style=flat" alt="sanduni" />
 
 <!--
 **Sanduni-Ridmika/Sanduni-Ridmika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
