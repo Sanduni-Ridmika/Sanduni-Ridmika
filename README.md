@@ -28,7 +28,7 @@
 
 <img
       height="165"
-      src="https://github-readme-stats-ruby-one.vercel.app/api?username=Sanduni-Ridmika&show_icons=true&count_private=true&theme=light&hide=issues&include_all_commits=true"
+      src="https://github-readme-stats.vercel.app/api?username=Sanduni-Ridmika&show_icons=true&count_private=true&theme=light&hide=issues&include_all_commits=true"
     />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanduni-Ridmika&layout=compact&theme=light)
 
